@@ -12,7 +12,7 @@ Check out my [coding portfolio!](INSERT-LINK)
 
 ## 🎓 About Me
 
-I'm also an fashion content creator and avid gamer.
+I'm also a fashion content creator and an avid gamer.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-adegeloye/)
