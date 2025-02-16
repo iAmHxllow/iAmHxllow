@@ -8,7 +8,7 @@ I am a second-year Software engineering student at Sheffield Hallam University, 
 - 💻 Building analytics software using military grade API
 - 💻 Building C# game applications with Unity
 
-Check out my [coding portfolio!](INSERT-LINK)
+Check out my [coding portfolio!](COMING-SOON)
 
 ## 🎓 About Me
 
