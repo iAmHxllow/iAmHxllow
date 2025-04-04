@@ -5,7 +5,6 @@ I am a second-year Software engineering student at Sheffield Hallam University, 
 
 ## 🚀 What I'm Up To
 
-- 💻 Building analytics software using military grade API
 - 💻 Building C# game applications with Unity
 
 Check out my [coding portfolio!](COMING-SOON)
