@@ -5,7 +5,7 @@ I am a second-year Software engineering student at Sheffield Hallam University, 
 
 ## 🚀 What I'm Up To
 
-- 💻 Building C# game applications with Unity
+- 💻 Building C# game applications with Unity & Visual Studio
 
 Check out my [coding portfolio!](COMING-SOON)
 
